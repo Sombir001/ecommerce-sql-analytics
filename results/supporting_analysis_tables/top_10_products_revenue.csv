@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,UnitsSold,GrossRevenue,ProductLabel
+61,Laptop J,Electronics,62,53977.82,Laptop J (#61)
+15,Bag P,Clothing,56,55637.12,Bag P (#15)
+91,Smartphone N,Footwear,87,55706.969999999994,Smartphone N (#91)
+38,Watch M,Beauty,58,56835.35999999999,Watch M (#38)
+29,Shirt D,Home,65,57928.65,Shirt D (#29)
+13,Watch N,Home,80,59467.200000000004,Watch N (#13)
+56,Bag E,Footwear,71,64805.25,Bag E (#56)
+51,Shirt Z,Home,79,67469.16,Shirt Z (#51)
+50,Bag Y,Home,90,75123.90000000001,Bag Y (#50)
+64,Smartphone M,Clothing,100,93856.0,Smartphone M (#64)
