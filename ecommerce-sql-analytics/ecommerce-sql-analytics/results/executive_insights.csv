@@ -1,9 +1,0 @@
-Area,Finding,BusinessImplication
-Revenue,Measured gross revenue reached $2.76M.,Protect and grow the strongest revenue drivers.
-Returns,$708.3K of measured revenue is associated with returned orders.,Returns represent a material financial exposure and should be actively investigated.
-Category,Electronics generated the highest measured category revenue.,Prioritize high-performing categories while monitoring assortment effects.
-Region,Asia East (Japan) generated the highest measured regional revenue.,Use regional differences to guide commercial and retention strategies.
-Customer,Repeat customers represent 95.98% of active customers.,Retention appears exceptionally high in this synthetic dataset; interpret cautiously.
-Product,Smartphone M (#64) generated the highest measured product revenue.,Protect availability and investigate the factors driving performance of leading products.
-Return Risk,"Footwear has the highest quantity return rate, while Electronics has the greatest returned-revenue exposure.",Return-rate and financial exposure should be managed as separate risk measures.
-Data Quality,"853 of 1,000 orders contain line-item details.",Improve transaction-detail completeness before using monetary metrics for full-order reporting.
