@@ -1,0 +1,11 @@
+RegionName,Country,TotalOrders,ReturnedOrders,OrderReturnRatePct,RegionLabel
+Asia South,India,62,12,19.35483870967742,Asia South — India
+Middle East,UAE,69,15,21.73913043478261,Middle East — UAE
+Europe West,UK,106,24,22.641509433962266,Europe West — UK
+Africa North,Egypt,119,27,22.689075630252102,Africa North — Egypt
+Oceania,Australia,124,29,23.387096774193548,Oceania — Australia
+Asia East,Japan,138,33,23.91304347826087,Asia East — Japan
+Europe Central,Germany,90,23,25.555555555555554,Europe Central — Germany
+South America,Brazil,95,25,26.31578947368421,South America — Brazil
+North America,USA,95,29,30.526315789473685,North America — USA
+Africa South,South Africa,102,32,31.372549019607842,Africa South — South Africa
